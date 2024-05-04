@@ -80,7 +80,7 @@ watch(isRegister, () => {
   <el-row class="login-page">
     <el-col :span="12" class="bg"></el-col>
     <el-col :span="6" :offset="3" class="form">
-      123 456 789
+      123 456 789 10 11 12
       <!-- 注册 -->
       <el-form
         ref="form"
