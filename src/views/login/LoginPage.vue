@@ -81,6 +81,8 @@ watch(isRegister, () => {
     <el-col :span="12" class="bg"></el-col>
     <el-col :span="6" :offset="3" class="form">
       <!-- 注册 -->
+
+      2134231额外负担、
       <el-form
         ref="form"
         size="large"
